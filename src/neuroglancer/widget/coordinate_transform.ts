@@ -266,8 +266,8 @@ export class CoordinateSpaceTransformWidget extends RefCounted {
 
 
     for (const [className, textContent] of [
-             ['source', 'Source dimensions'],
-             ['output', 'Output dimensions'],
+             ['source', 'SOURCE dimensions'],
+             ['output', 'OUTPUT dimensions'],
              ['input-lower', 'Lower'],
              ['input-upper', 'Upper'],
              ['input-scale', 'Scale'],
